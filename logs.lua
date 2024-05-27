@@ -7,4 +7,8 @@ local logs = {
     publisher = "Juni",
     description = "This announcement is a test. also",
   },
+  upd3 = {
+    publisher = "Juni",
+    description = "no",
+  },
 }
