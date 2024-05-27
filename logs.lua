@@ -3,4 +3,8 @@ local logs = {
     publisher = "Juni",
     description = "This announcement is a test. It should appear in the announcements menu.",
   },
+  upd2 = {
+    publisher = "Juni",
+    description = "This announcement is a test. also",
+  },
 }
