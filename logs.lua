@@ -1,10 +1,6 @@
 local logs = {
   upd1 = {
     publisher = "Juni",
-    description = "Swag",
+    description = "This announcement is a test. It should appear in the announcements menu.",
   },
-  upd2 = {
-    publisher = "Juni",
-    description = "Swaggy",
-  }
 }
